@@ -32,3 +32,6 @@ Associated code and data for GWAS analysis of potato canopy traits and yield
 
 #### raw_data
 /raw_data provides all the relevant [genotype](https://github.com/JBosan/Potato_canopy_GWAS/tree/main/raw_data/genotype) and [phenotype](https://github.com/JBosan/Potato_canopy_GWAS/tree/main/raw_data/phenotype) data used in analysis.
+
+#### Thesis supplementary tables
+[GWAS_chapter_supplementary.xlsx](https://github.com/JBosan/Potato_canopy_GWAS_thesis/blob/main/GWAS_chapter_supplementary.xlsx) provides the supplementary tables for the potato GWAS thesis chapter.
